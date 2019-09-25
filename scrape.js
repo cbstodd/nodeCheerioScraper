@@ -36,6 +36,8 @@ request(url, (err, resp, html) => {
 
         });
 
+
+        // To generate, Run: $ node scrape.js
         console.info('Scrapping complete! File can be found in the root of this project.');
     }
 });

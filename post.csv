@@ -1,5 +1,0 @@
-Title,Path,Summary 
- Things you should know about CSS ,/posts/things-you-should-know-about-css,Most people use SASS/SCSS or LESS but maybe you don't need to? Here are a couple of reasons I'm opting to use vanilla CSS instead of SCSS in my projects 
- Adding Real Favicon Generator To Your Angular App ,/posts/adding-real-favicon-generator-to-your-angular-app,How to use the Real Favicon Generator to add a Favicon and PWA icon to your Angular app. 
- How to add UIKit to Angular ,/posts/how-to-add-uikit-to-angular,How to install UIKit in Angular 6+ using CSS or SASS/SCSS  
- How to install Bootstrap in Angular ,/posts/how-to-install-bootstrap-in-angular,How to install Bootstrap 4 in Angular 6 7+. 
